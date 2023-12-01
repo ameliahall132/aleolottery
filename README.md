@@ -1,3 +1,7 @@
+My discord is RonaldMarsh#8359
+
+I'm not a bot
+
 # lottery.aleo
 
 ## Run Guide
